@@ -1,0 +1,2 @@
+É preciso ir ao site do concurso e fazer download das pastas designadas por "ISBI2016_ISIC_Part1_Training_Data" e "ISBI2016_ISIC_Part1_Training_GroundTruth" para correr o código.
+estas pastas não vem anexadas, porque ocupam mais de 100 MB.
